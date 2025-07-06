@@ -66,17 +66,8 @@ Leaflet.js for map rendering
 
 Bootstrap 5 for responsive UI
 
-🌐 Live Demo (Optional)
-Add live URL after deployment to Hugging Face, Render, or Railway
 
-📦 Future Improvements
-Integration with real-time flight APIs
 
-User authentication and dashboards
-
-Admin panel to upload custom datasets
-
-ML-based demand forecasting
 
 🙋‍♀️ Author
 Shatavisha Chakraborty
